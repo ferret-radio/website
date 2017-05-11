@@ -1,0 +1,88 @@
+/* Control button hover */
+#play {
+    height: 36px;
+    width: 36px;
+}
+#play:hover {
+    content: url('../img/player/playhover.png');
+    height: 36px;
+    width: 36px;
+}
+#stop {
+    height: 36px;
+    width: 36px;
+}
+#stop:hover {
+    content: url('../img/player/stophover.png');
+    height: 36px;
+    width: 36px;
+}
+
+
+/* Volume bar standard */
+#volume {
+    -webkit-appearance: none;
+    width: 150px;
+    height: 36px;
+    padding: 0;
+}
+
+/* Volume bar for mozilla browsers */
+#volume::-moz-range-track {
+    -moz-appearance: none;
+    border-color: white;
+    background-color: white;
+    width: 150px;
+}
+#volume::-moz-range-thumb {
+    -moz-appearance: none;
+    border-radius: 10px;
+    border: 2px solid white;
+    background: #44a0eb;
+    width: 10px;
+    height: 10px;
+}
+
+/* Volume bar for trident browsers */
+#volume::-ms-track {
+    border-color: white;
+    background-color: white;
+    color: white;
+    width: 150px;
+    height: 2px;
+}
+#volume::-ms-thumb {
+    border-radius: 10px;
+    border: 2px solid white;
+    background: #44a0eb;
+    width: 10px;
+    height: 10px;
+}
+#volume::-ms-tooltip {
+    display: none;
+}
+#volume::-ms-fill-lower {
+    background: white;
+}
+#volume::-ms-fill-upper {
+    background: white;
+}
+
+/* Volume bar for webkit browsers */
+#volume::-webkit-slider-thumb {
+    -webkit-appearance: none !important;
+    border-radius: 10px;
+    border: 2px solid white;
+    background: #44a0eb;
+    width: 14px;
+    height: 14px;
+}
+@media screen and (-webkit-min-device-pixel-ratio:0) {  
+    #volume {
+        height: 4px;
+        background: white;
+        position: relative;
+        top: -16px;
+        outline: none;
+    }
+}
