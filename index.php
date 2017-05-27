@@ -68,8 +68,10 @@ Now with more CSS3 and less pages -->
 
 <head>
 	<title>Ferret Radio</title>
+	<link rel="icon" href="img/favicon.ico" type="image/x-icon">
     <link href="css/style.css" rel="stylesheet">
     <link href="css/player.css" rel="stylesheet">
+    <link href="css/tabs.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
     <script src="http://code.jquery.com/jquery-1.11.0.js"></script>
     <script src="js/player.js"></script>
@@ -133,6 +135,13 @@ Now with more CSS3 and less pages -->
     </div>
 
     <div id="staffimg">
+		<img src="img/ace.png"/>
+    </div>
+    <div id="stafftxt">
+		<a href="https://osu.ppy.sh/u/trinity_of_aces" target="_blank">Ace</a> //<br/> Rotation DJ //
+    </div>
+
+    <div id="staffimg">
 		<img src="img/xeno.png"/>
     </div>
     <div id="stafftxt">
@@ -146,7 +155,9 @@ Now with more CSS3 and less pages -->
   <div id="links_inner">
   	Read <a href="http://twitter.com/ferretradio" target="_blank">News</a> updates<br/><br/>
   	Join our <a href="https://discord.gg/EMR5Jg2" target="_blank">Discord</a> server<br/><br/>
-    Download links:<br/>
+  	View the <a href="http://old.ferretradio.co.uk/" target="_blank">Old Website</a> here<br/><br/>
+  	View our <a href="https://github.com/ferret-radio/website" target="_blank">GitHub</a> repo<br/><br/>
+    Stream Download links:<br/>
 	<a href="http://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://uk6.internet-radio.com:8498/live.m3u&t=.m3u">.m3u</a>&nbsp;
 	<a href="http://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://uk6.internet-radio.com:8498/live.m3u&t=.pls">.pls</a>&nbsp;
 	<a href="http://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://uk6.internet-radio.com:8498/live.m3u&t=.ram">.ram</a>&nbsp;
@@ -393,9 +404,8 @@ Now with more CSS3 and less pages -->
   </div>
 </div>
 
-<div id="ferret">
-	<img src="img/ferret.png"/>
-</div>
+
+	<img id="ferret" src="img/ferret.png"/>
 
 </body>
 </html>
