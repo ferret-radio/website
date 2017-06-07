@@ -38,7 +38,7 @@
     -moz-appearance: none;
     border-radius: 10px;
     border: 2px solid white;
-    background: #44a0eb;
+    background: #a1d2c4;
     width: 10px;
     height: 10px;
 }
@@ -54,7 +54,7 @@
 #volume::-ms-thumb {
     border-radius: 10px;
     border: 2px solid white;
-    background: #44a0eb;
+    background: #a1d2c4;
     width: 10px;
     height: 10px;
 }
@@ -73,7 +73,7 @@
     -webkit-appearance: none !important;
     border-radius: 10px;
     border: 2px solid white;
-    background: #44a0eb;
+    background: #a1d2c4;
     width: 14px;
     height: 14px;
 }

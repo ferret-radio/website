@@ -6,21 +6,21 @@ body {
     color: #e8e8e8 !important;
 }
 a:link {
-  color: #44a0eb;
+  color: #a1d2c4;
   background-color: transparent;
   text-decoration: none;
 }
 
 a:hover {
-  color: #446beb ;
+  color: #3ea98a ;
 }
 
 a:visited {
-    color: #44a0eb;
+    color: #a1d2c4;
 }
 
 a:visited:hover {
-    color: #446beb;
+    color: #3ea98a;
 }
 
 /* Center Area */

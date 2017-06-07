@@ -64,7 +64,10 @@
 <html lang="en">
 
 <!-- Meet Ferret 2.0
-Now with more CSS3 and less pages -->
+Now with more CSS3 and less pages 
+
+Property of Sarin
+-->
 
 <head>
 	<title>Ferret Radio</title>
@@ -139,6 +142,13 @@ Now with more CSS3 and less pages -->
     </div>
     <div id="stafftxt">
 		<a href="https://osu.ppy.sh/u/trinity_of_aces" target="_blank">Ace</a> //<br/> Rotation DJ //
+    </div>
+
+    <div id="staffimg">
+		<img src="img/ryomelons.png"/>
+    </div>
+    <div id="stafftxt">
+		<a href="https://www.facebook.com/watermelonbae/" target="_blank">Ryomelons</a> //<br/> Illustrator //
     </div>
 
     <div id="staffimg">
