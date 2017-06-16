@@ -163,7 +163,7 @@ Property of Sarin
 <div id="links">
   <img src="img/links.png" alt="links" />
   <div id="links_inner">
-  	Read <a href="http://twitter.com/ferretradio" target="_blank">News</a> updates<br/><br/>
+  	Like our <a href="https://www.facebook.com/FerretRadio/" target="_blank">Facebook</a> page<br/><br/>
   	Join our <a href="https://discord.gg/EMR5Jg2" target="_blank">Discord</a> server<br/><br/>
   	View the <a href="http://old.ferretradio.co.uk/" target="_blank">Old Website</a> here<br/><br/>
   	View our <a href="https://github.com/ferret-radio/website" target="_blank">GitHub</a> repo<br/><br/>
