@@ -84,7 +84,7 @@ Property of Sarin
 <div id="mainimage">
 	<img src="img/logo.png"/>
 	<center>
-		<audio id="audio" src="http://uk6.internet-radio.com:8498/live"></audio>
+		<audio id="audio" src="http://uk7.internet-radio.com:8026/live"></audio>
 			<img id="play" src="img/player/play.png"/>
 			<img id="stop" src="img/player/stop.png"/>
 			<img id="mute" src="img/player/unmuted.png"/>
@@ -112,7 +112,7 @@ Property of Sarin
     	<img src="img/uniiko.png"/>
     </div>
 	<div id="stafftxt">
-		<a href="http://chalk.moe/noz" target="_blank">UNIIKO</a> //<br/> Founder //
+		<a href="http://chalk.moe/noz" target="_blank">Saiban</a> //<br/> Founder //
     </div>
 
 
@@ -120,7 +120,7 @@ Property of Sarin
     	<img src="img/okiinu.png"/>
     </div>
 	<div id="stafftxt">
-		<a href="http://chalk.moe/" target="_blank">OKIINU</a> //<br/> Founder //
+		<a href="http://chalk.moe/" target="_blank">Seiban</a> //<br/> Founder //
     </div>
 
     <div id="staffimg">
@@ -165,12 +165,11 @@ Property of Sarin
   <div id="links_inner">
   	Like our <a href="https://www.facebook.com/FerretRadio/" target="_blank">Facebook</a> page<br/><br/>
   	Join our <a href="https://discord.gg/EMR5Jg2" target="_blank">Discord</a> server<br/><br/>
-  	View the <a href="http://old.ferretradio.co.uk/" target="_blank">Old Website</a> here<br/><br/>
   	View our <a href="https://github.com/ferret-radio/website" target="_blank">GitHub</a> repo<br/><br/>
     Stream Download links:<br/>
-	<a href="http://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://uk6.internet-radio.com:8498/live.m3u&t=.m3u">.m3u</a>&nbsp;
-	<a href="http://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://uk6.internet-radio.com:8498/live.m3u&t=.pls">.pls</a>&nbsp;
-	<a href="http://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://uk6.internet-radio.com:8498/live.m3u&t=.ram">.ram</a>&nbsp;
+	<a href="http://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://uk7.internet-radio.com:8026/live.m3u&t=.m3u">.m3u</a>&nbsp;
+	<a href="http://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://uk7.internet-radio.com:8026/live.m3u&t=.pls">.pls</a>&nbsp;
+	<a href="http://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://uk7.internet-radio.com:8026/live.m3u&t=.ram">.ram</a>&nbsp;
   </div>
 </div>
 
